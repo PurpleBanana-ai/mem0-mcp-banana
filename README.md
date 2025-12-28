@@ -1,3 +1,10 @@
+<h1 align="center">
+WARNING - COPY OF REPO NOT ORIGINAL 
+</h1>
+<p></p>
+<p></p>
+
+
 # Mem0 MCP Server
 
 [![PyPI version](https://img.shields.io/pypi/v/mem0-mcp-server.svg)](https://pypi.org/project/mem0-mcp-server/) [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE) [![smithery badge](https://smithery.ai/badge/@mem0ai/mem0-memory-mcp)](https://smithery.ai/server/@mem0ai/mem0-memory-mcp)
